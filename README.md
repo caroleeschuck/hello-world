@@ -1,3 +1,4 @@
 # hello-world
 Tutorial
-Notesy-notes added here
+Notesy-noter added here
+On second revision, added this line and edited the one above
